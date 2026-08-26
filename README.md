@@ -4,6 +4,8 @@
 **Class:** SE Section B | **Faculty:** Dr. Sapna V M
 **Actors:** Club Lead, Campus Admin
 
+**Jira Project:** https://aruukadlabal.atlassian.net/jira/software/c/projects/CEP/boards/34/backlog
+
 ---
 
 ## Lab 1-3: Requirements Engineering & UML Use-Case Modelling
@@ -24,7 +26,7 @@ Folder: [`Lab2_deliverables/`](./Lab2_deliverables)
   - **Sprint 1 & Sprint 2**: Active Sprint boards and Burndown Charts for both completed sprints
   - **Reflection**: answers to the 4 reflection questions on estimation, prioritization, and sprint capacity
 
-**Jira Project:** [CEP Board](https://aruukadlabal.atlassian.net/jira/software/c/projects/CEP/boards/34/backlog)
+Jira project link: https://aruukadlabal.atlassian.net/jira/software/c/projects/CEP/boards/34/backlog
 
 ---
 
